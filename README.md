@@ -19,7 +19,7 @@ scipy==1.6.2
 
 ## Datasets
 
-Four datasets are included in `data` folder. 
+Four datasets are included in `dataset` folder. 
 
 | datasets               | Users  | POIs   | Check-ins| Friendships | Ave.length | Long-tail users | Time span | Sparsity |
 | ---------------------- | ------ | -------- |------ | -------- |------ | -------- |------ | -------- |
